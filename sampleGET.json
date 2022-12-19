@@ -1,0 +1,30 @@
+{
+  "progress": {
+    "sectionCompletePercentage": 25,
+    "applicationCompletePercentage": 56,
+    "moreDetail": "???"
+  },
+  "section": {
+    "sectionId": "0f8fad5b-d9cb-469f-a165-70867728950e",
+    "sectionCode": "B",
+    "sectionLabel": "Product Selection"
+  },
+  "stepId": "0f8fad5b-d9cb-469f-a165-70867728950e",
+  "stepCode": "B1",
+  "stepLabel": "Goal Reduce rate, pmt, or term cash",
+  "stepType": "multipleChoice",
+  "visibleStepMetadata": "",
+  "skippable": false,
+  "stepActions": [
+    {
+      "stepActionId": "0f8fad5b-d9cb-469f-a165-70867728950e",
+      "stepActionLabel": "cash out"
+    },
+    {
+      "stepActionId": "0f8fad5b-d9cb-469f-a165-70867728950b",
+      "stepActionLabel": "rate/term"
+    },
+    { "stepActionId": "", "stepActionLabel": "skip" }
+  ],
+  "inputValidations": []
+}
